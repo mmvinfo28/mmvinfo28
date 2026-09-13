@@ -13,15 +13,6 @@
 <a href="https://github.com/mmvinfo28/crewboard"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-crewboard-dark.svg"><img alt="crewboard" src="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-crewboard-light.svg"></picture></a>
 <a href="https://github.com/mmvinfo28/neetcode-submissions"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neetcode-submissions-dark.svg"><img alt="neetcode-submissions" src="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neetcode-submissions-light.svg"></picture></a>
 
-## Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="TypeScript, JavaScript, Python, Java, Next.js, Electron, Supabase" src="assets/stack-light.svg">
-</picture>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/snake-light.svg">

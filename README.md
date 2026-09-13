@@ -1,11 +1,12 @@
-# Hi, I'm Marius
-
-CS student. Building AI agent tooling, desktop apps, and study tools.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Marius Morutan — CS student building AI agent tooling, desktop apps, and study tools" src="assets/header-light.svg" width="820">
+</picture>
 
 ## Live
 
-- **[Semestr](https://semestr.app)** — University planner: schedule, assignments, and study time in one place. Next.js + Supabase.
-- **[Nation Clash](https://www.nationclash.gg)** — World competition of short skill games. Every player represents a nation and climbs the national leaderboard.
+- <img src="assets/live.svg" width="14" align="absmiddle" alt=""> **[Semestr](https://semestr.app)** — University planner: schedule, assignments, and study time in one place. Next.js + Supabase.
+- <img src="assets/live.svg" width="14" align="absmiddle" alt=""> **[Nation Clash](https://www.nationclash.gg)** — World competition of short skill games. Every player represents a nation and climbs the national leaderboard.
 
 ## Open source
 

@@ -30,7 +30,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OWNER: ${{ github.repository_owner }}
-          REPOS: neet2leet,neetcode-submissions
+          REPOS: neetbridge,neetcode-submissions
           OUT: dist
 
       - name: Push to output branch

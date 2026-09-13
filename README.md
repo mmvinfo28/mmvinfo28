@@ -10,7 +10,7 @@
 
 ## Repos
 
-<a href="https://github.com/mmvinfo28/neet2leet"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neet2leet-dark.svg"><img alt="neet2leet" src="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neet2leet-light.svg"></picture></a>
+<a href="https://github.com/mmvinfo28/neetbridge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neetbridge-dark.svg"><img alt="neetbridge" src="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neetbridge-light.svg"></picture></a>
 <a href="https://github.com/mmvinfo28/neetcode-submissions"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neetcode-submissions-dark.svg"><img alt="neetcode-submissions" src="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neetcode-submissions-light.svg"></picture></a>
 
 <picture>

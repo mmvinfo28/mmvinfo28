@@ -10,8 +10,8 @@
 
 ## Open source
 
-<a href="https://github.com/mmvinfo28/crewboard"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mmvinfo28&repo=crewboard&show_owner=false&bg_color=161b22&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e"><img alt="crewboard" src="https://github-readme-stats.vercel.app/api/pin/?username=mmvinfo28&repo=crewboard&show_owner=false&bg_color=f6f8fa&border_color=d0d7de&title_color=0969da&text_color=1f2328&icon_color=57606a"></picture></a>
-<a href="https://github.com/mmvinfo28/neetcode-submissions"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mmvinfo28&repo=neetcode-submissions&show_owner=false&bg_color=161b22&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e"><img alt="neetcode-submissions" src="https://github-readme-stats.vercel.app/api/pin/?username=mmvinfo28&repo=neetcode-submissions&show_owner=false&bg_color=f6f8fa&border_color=d0d7de&title_color=0969da&text_color=1f2328&icon_color=57606a"></picture></a>
+<a href="https://github.com/mmvinfo28/crewboard"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-crewboard-dark.svg"><img alt="crewboard" src="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-crewboard-light.svg"></picture></a>
+<a href="https://github.com/mmvinfo28/neetcode-submissions"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neetcode-submissions-dark.svg"><img alt="neetcode-submissions" src="https://raw.githubusercontent.com/mmvinfo28/mmvinfo28/output/card-neetcode-submissions-light.svg"></picture></a>
 
 ## Stack
 

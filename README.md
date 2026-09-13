@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Marius Morutan — CS student building AI agent tooling, desktop apps, and study tools" src="assets/header-light.svg" width="820">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=2">
+  <img alt="Marius Morutan — CS student building AI agent tooling, desktop apps, and study tools" src="assets/header-light.svg?v=2" width="820">
 </picture>
 
 ## Live
